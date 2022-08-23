@@ -54,9 +54,4 @@ var_dump($data);
 ```
 
 
-If you any questions, use [Issues](https://github.com/gyf19/yar-go/issues).
-# yar-go
-# yar-go
-# yar-go
-# yar-go
-# yar-go
+If you any questions, use [Issues](https://github.com/abelonmyway/yar-go/issues).
